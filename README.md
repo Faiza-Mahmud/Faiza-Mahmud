@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Faiza</h1>
-<h3 align="center">Third Year CS Student @ TMU</h3>
+<h3 align="center">Second Year CS Student @ TMU</h3>
 
 - 🔭 I’m currently working on **an E-commerce online store**
 
