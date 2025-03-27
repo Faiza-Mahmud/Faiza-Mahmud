@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I love to problem solve and play with my cat**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
